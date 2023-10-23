@@ -4,7 +4,7 @@
 
 <h2>📃 Certifications</h2>
 
-BS in Cybersecurity from Southern New Hampshite University GPA 4.0
+BS, Cybersecurity, Southern New Hampshite University, GPA 4.0
 
 <h2> 🤳 Connect with me:</h2>
 
