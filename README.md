@@ -1,6 +1,6 @@
-<h1>Hi, I'm Andrew! <br/> An aspiring <a href="https://www.linkedin.com/in/andrew-melson-6b52673a/">Cybersecurity Professional</a>
+<h1>Hi, I'm Andrew! <br/> Aspiring <a href="https://www.linkedin.com/in/andrew-melson-6b52673a/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
