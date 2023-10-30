@@ -4,7 +4,7 @@
 
 - <b>Network Traffic</b>
   - [Analyzing Network Traffic with tcpdump](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Using Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Using Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>HackTheBox</b>
   - [Network Traffic Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory](https://github.com/joshmadakor1/Jwipe.PowerShell)
