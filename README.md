@@ -12,10 +12,10 @@
   - [Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>Certifications</h2>
-- ISC2 Certified in Cybersecurity (11/2023)
-- Google Certified in Cybersecurity (In Progress)
-- eJPT (In Progress)
-- BS Cybersecurity, Southern New Hampshire University, 4.0 GPA
+- ISC2 Certified in Cybersecurity (11/2023) </br>
+- Google Certified in Cybersecurity (In Progress) </br>
+- eJPT (In Progress) </br>
+- BS Cybersecurity, Southern New Hampshire University, 4.0 GPA </br>
 
 <h2> Connect with me:</h2>
 
