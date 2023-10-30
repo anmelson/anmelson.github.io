@@ -22,6 +22,6 @@
 
 ## Connect with me:
 
-[![AndrewMelson | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andrew-melson-6b52673a/
+<a href="https://www.linkedin.com/in/andrew-melson-6b52673a/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" height="22" alt="AndrewMelson | LinkedIn">
+</a>
