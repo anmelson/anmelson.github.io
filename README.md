@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, <br/> an aspiring <a href="https://www.linkedin.com/in/andrew-melson-6b52673a/">Cybersecurity Professional</a>.
+<h1>Hi, I'm Andrew, an aspiring <a href="https://www.linkedin.com/in/andrew-melson-6b52673a/">Cybersecurity Professional</a>.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
