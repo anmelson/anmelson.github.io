@@ -2,6 +2,10 @@
 
 ## Cybersecurity Projects:
 
+**Applications**
+
+- [Using Microsoft Windows Defender and Firewall](https://github.com/anmelson/WindowsDefenderandFirewall)
+
 **Network Traffic**
 - [Analyzing Network Traffic with tcpdump](https://github.com/anmelson/tcpdumpTrafficAnalysis)
 - [Using Wireshark](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
