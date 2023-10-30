@@ -1,9 +1,1 @@
-title: Andrew Melson
-email: andrew.melson23@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my Cybersecurity portfolio site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "anmelson.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
