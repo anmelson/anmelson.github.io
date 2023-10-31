@@ -1,7 +1,7 @@
-# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)  
+# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)  </br>
 
-
-## Cybersecurity Projects:  
+## Cybersecurity Projects:
+<br>
 
 **Applications**  
 
@@ -17,6 +17,7 @@
 
 **TryHackMe**
 - [Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
+<br>
 
 ## Certifications
 
@@ -24,6 +25,7 @@
 - Google Certified in Cybersecurity (In Progress)
 - eJPT (In Progress)
 - BS Cybersecurity, Southern New Hampshire University, 4.0 GPA
+<br>
 
 ## Connect with me:
 
