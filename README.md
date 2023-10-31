@@ -1,7 +1,7 @@
-# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)  </br>
+# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)
+<br>
 
 ## Cybersecurity Projects:
-<br>
 
 **Applications**  
 
