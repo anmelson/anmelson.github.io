@@ -9,14 +9,9 @@
 
 **Network Traffic**
 - [Analyzing Network Traffic with tcpdump](https://github.com/anmelson/tcpdumpTrafficAnalysis)
-- [Using Wireshark](https://github.com/anmelson/UsingWireshark)  
+- [Using Wireshark](https://github.com/anmelson/UsingWireshark)
+- [A More In Depth Traffic Analysis](https://github.com/anmelson/HTBNetworkAnalysis)  
 
-**HackTheBox**
-- [Network Traffic Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
-- [Active Directory](https://github.com/joshmadakor1/Jwipe.PowerShell)  
-
-**TryHackMe**
-- [Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
 <br>
 
 ## Certifications
