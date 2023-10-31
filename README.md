@@ -10,7 +10,7 @@
 **Network Traffic**
 - [Analyzing Network Traffic with tcpdump](https://github.com/anmelson/tcpdumpTrafficAnalysis)
 - [Using Wireshark](https://github.com/anmelson/UsingWireshark)
-- [A More In Depth Traffic Analysis](https://github.com/anmelson/HTBNetworkAnalysis)  
+- [A More In Depth Traffic Analysis with tcpdump and Wireshark](https://github.com/anmelson/HTBNetworkAnalysis)  
 
 <br>
 
