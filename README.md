@@ -1,18 +1,19 @@
-# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)
+# Hi, I'm Andrew, an aspiring [Cybersecurity Professional](https://www.linkedin.com/in/andrew-melson-6b52673a/)  
 
-## Cybersecurity Projects:
 
-**Applications**
+## Cybersecurity Projects:  
 
-- [Using Microsoft Windows Defender and Firewall](https://github.com/anmelson/WindowsDefenderandFirewall)
+**Applications**  
+
+- [Using Microsoft Windows Defender and Firewall](https://github.com/anmelson/WindowsDefenderandFirewall)  
 
 **Network Traffic**
 - [Analyzing Network Traffic with tcpdump](https://github.com/anmelson/tcpdumpTrafficAnalysis)
-- [Using Wireshark](https://github.com/anmelson/UsingWireshark)
+- [Using Wireshark](https://github.com/anmelson/UsingWireshark)  
 
 **HackTheBox**
 - [Network Traffic Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
-- [Active Directory](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Active Directory](https://github.com/joshmadakor1/Jwipe.PowerShell)  
 
 **TryHackMe**
 - [Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
