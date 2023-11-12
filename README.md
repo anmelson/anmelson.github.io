@@ -13,15 +13,17 @@
 - [Using Wireshark](https://github.com/anmelson/UsingWireshark)
 - [A More In Depth Traffic Analysis with tcpdump and Wireshark](https://github.com/anmelson/HTBNetworkAnalysis)  
 
-<br>
 ## Boxes:
 
  - [Easy Box](https://github.com/anmelson/EasyBox)
 
+
+<br>
+
 ## Certifications
 
 - ISC2 Certified in Cybersecurity (11/2023)
-- Google Certified in Cybersecurity (In Progress)
+- Google Certified in Cybersecurity (11/2023)
 - eJPT (In Progress)
 - BS Cybersecurity, Southern New Hampshire University, 4.0 GPA
 <br>
