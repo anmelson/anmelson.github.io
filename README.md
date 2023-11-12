@@ -15,6 +15,10 @@
 
 <br>
 
+## Boxes:
+
+ - [Easy Box](https://github.com/anmelson/EasyBox)
+
 ## Certifications
 
 - ISC2 Certified in Cybersecurity (11/2023)
